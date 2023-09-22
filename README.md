@@ -1,4 +1,4 @@
-# tempo
+# Tempo
 
 This is a repository for the Tempo Project, which enhances the Vanilla Hyperledger fabric with time series capabilities
 and external execution capabilities for the time series capable chaincode.
